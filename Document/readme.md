@@ -1,1 +1,0 @@
-Cafeteria Menu Display
